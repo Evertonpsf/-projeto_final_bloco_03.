@@ -11,13 +11,13 @@ function Footer() {
                     <p className='font-bold text-xl'>Farmassales Everton P. Generation | Copyright: {data}</p>
                     <p className='text-lg'>Explore nossa redes sociais</p>
                     <div className='flex gap-2'>
-                        
-                            <LinkedinLogo size={48} weight='bold' />
 
-                            <InstagramLogo  size={48} weight='bold' />
-                        
-                            <FacebookLogo size={48} weight='bold' />
-                            
+                        <LinkedinLogo size={48} weight='bold' />
+
+                        <InstagramLogo size={48} weight='bold' />
+
+                        <FacebookLogo size={48} weight='bold' />
+
 
                     </div>
                 </div>
