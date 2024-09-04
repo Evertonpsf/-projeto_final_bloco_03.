@@ -14,9 +14,6 @@ function Home() {
                         <p className='text-2xl'>Aqui se você não melhorar, fica doido!</p>
 
                         <div className="flex justify-around gap-4">
-                            <div className='border-2 text-whiteborder-white bg-lime-500 px-4 py-2 border-solid rounded'>
-                                Novo Produto
-                            </div>
                         </div>
                     </div>
 
