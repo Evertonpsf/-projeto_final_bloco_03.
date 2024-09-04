@@ -6,11 +6,11 @@ function Navbar() {
 
     return (
 
-        <div className='flex justify-center bg-slate-800 py-4 w-full text-white'>
+        <div className='flex justify-center bg-orange-800 py-4 w-full text-white'>
             <div className="flex justify-between text-lg container">
                 <Link to='/home'>
                     <img
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9LulO8yFSLaLDKiNXylqt7obbwfTJy_5IlA&s"
+                        src="https://static.vecteezy.com/ti/vetor-gratis/t1/6136568-farmaceutico-homem-guardando-a-farmacia-vetor.jpg"
                         alt="Logo"
                         className='w-60'
                     />
